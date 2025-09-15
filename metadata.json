@@ -1,0 +1,5 @@
+{
+  "name": "AI Content Refinery",
+  "description": "An intelligent web application that uses the Gemini API to refine text, generate questions, create a glossary, and answer specific queries based on user-provided content. Ideal for content creators, students, and researchers.",
+  "requestFramePermissions": []
+}
